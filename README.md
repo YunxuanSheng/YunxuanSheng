@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YunxuanSheng
 - 👀 I’m interested in web development and data science
-- - 🌱 I’m currently learning React and SpringBoot
+- 🌱 I’m currently learning React and SpringBoot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: plz send me email :)
 
