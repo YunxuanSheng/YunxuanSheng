@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @YunxuanSheng
-- 👀 I’m interested in web development and data science
-- 🌱 I’m currently learning React and SpringBoot
+- 👀 I’m a frontend developer at ByteDance, familiar with React, Vue, Node.js, and more.
+- 🎓 I studied at the University of Michigan.
+- 🌱 I’m currently learning advanced frontend techniques and exploring full-stack development.
+- 📷 In my free time, I enjoy photography.
 - 📫 How to reach me: yunxuansheng@outlook.com :)
 
 <!---
